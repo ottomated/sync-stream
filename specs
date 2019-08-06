@@ -1,0 +1,21 @@
+index: lobby
+X list rooms
+	X number of people
+		- hover for list
+	- what's playing
+	- timestamp
+X create room
+  X permission required?
+X join room
+	X enter name
+		X check against people in room
+	- save session
+
+room:
+- video player
+- fix autoplay (TEST ON EVERYTHING)
+- event log
+- switch video
+	- file
+	- putlocker
+	
